@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="福建电信",CCTV1
 http://www.jz31sf.xyz:9999/rtp/239.61.3.61:9884
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="福建电信",CCTV2
