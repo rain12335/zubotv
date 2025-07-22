@@ -46,8 +46,7 @@ jobs:
 
       - name: Run gengxinchongqingip
         run: python ${{ github.workspace }}/gengxinchongqingip.py
-
-      # 根据需要取消注释以下行
+        
       - name: Run gengxinhunanip
         run: python ${{ github.workspace }}/gengxinhunanip.py
 
