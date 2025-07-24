@@ -50,15 +50,6 @@ jobs:
       - name: Run gengxinhunanip
         run: python ${{ github.workspace }}/gengxinhunanip.py
 
-      - name: Run gengxinfujianip
-        run: python ${{ github.workspace }}/gengxinfujianip.py
-
-      - name: Run gengxinfuzhouip
-        run: python ${{ github.workspace }}/gengxinfuzhouip.py
-
-      - name: Run gengxinsuiningip
-        run: python ${{ github.workspace }}/gengxinsuiningip.py
-
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
