@@ -4,8 +4,7 @@ import re
 import cv2  # 导入OpenCV库
 
 # 定义fofa链接
-fofa_url = '
-https://fofa.info/result?qbase64=InVkcHh5IiAmJiBwcm92aW5jZT0iRnVqaWFuIg%3D%3D'
+fofa_url = 'https://fofa.info/result?qbase64=InVkcHh5IiAmJiBwcm92aW5jZT0iRnVqaWFuIg%3D%3D'
 # fofa_url = 'http://tonkiang.us/hoteliptv.php?page=1&pv=%E5%9B%9B%E5%B7%9D%E7%94%B5%E4%BF%A1'
 
 
