@@ -58,6 +58,9 @@ jobs:
 
       - name: Run gengxinfuzhouip
         run: python ${{ github.workspace }}/gengxinfuzhouip.py
+
+      - name: Run gengxinguangdongip
+        run: python ${{ github.workspace }}/gengxinguangdongip.py
         
       - name: Commit results
         run: |
