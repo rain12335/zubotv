@@ -3,7 +3,7 @@ import re
 import cv2  # 导入OpenCV库
 
 # 定义fofa链接
-fofa_url = 'https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjaXR5PSJDaG9uZ3Fpbmci'
+fofa_url = 'https://fofa.info/result?qbase64=InVkcHh5IiAmJiByZWdpb249IkNob25ncWluZyIgJiYgb3JnPSJDaGluYW5ldCIgJiYgcHJvdG9jb2w9Imh0dHAi'
 # fofa_url = 'http://tonkiang.us/hoteliptv.php?page=1&pv=%E9%87%8D%E5%BA%86%E8%81%94%E9%80%9A'
 
 # 尝试从fofa链接提取IP地址和端口号，并去除重复项
@@ -98,3 +98,4 @@ if unique_ips_ports:
         print("没有找到可访问的视频流服务。")
 else:
     print("没有提取到IP地址和端口号。")
+
