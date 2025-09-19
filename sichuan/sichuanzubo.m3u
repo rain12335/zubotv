@@ -49,6 +49,26 @@ http://171.217.30.36:13579/udp/239.93.42.63:5140
 http://171.217.30.36:13579/udp/239.93.1.111:5140
 #EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="网络数字",CETV-4
 http://171.217.30.36:13579/udp/239.93.0.50:5140
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视高清",四川卫视4K
+http://171.217.30.36:13579/udp/239.94.0.115:5140
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视高清",湖南卫视4K
+http://171.217.30.36:13579/udp/239.94.0.116:5140
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视高清",江苏卫视4K
+http://171.217.30.36:13579/udp/239.94.0.117:5140
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视高清",浙江卫视4K
+http://171.217.30.36:13579/udp/239.94.0.118:5140
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视高清",东方卫视4K
+http://171.217.30.36:13579/udp/239.94.0.120:5140
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视高清",东方卫视4KHDR
+http://171.217.30.36:13579/udp/239.94.0.119:5140
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="卫视高清",北京卫视4K
+http://171.217.30.36:13579/udp/239.94.0.111:5140
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="卫视高清",北京卫视4KHDR
+http://171.217.30.36:13579/udp/239.94.0.112:5140
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="卫视高清",深圳卫视4K
+http://171.217.30.36:13579/udp/239.94.0.113:5140
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="卫视高清",广东卫视4K
+http://171.217.30.36:13579/udp/239.94.0.114:5140
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视高清",四川卫视高清
 http://171.217.30.36:13579/udp/239.93.0.20:1235
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视高清",湖南卫视高清
@@ -379,3 +399,4 @@ http://171.217.30.36:13579/udp/239.93.1.197:5140
 http://171.217.30.36:13579/udp/239.93.1.198:5140
 #EXTINF:-1,tvg-id="百视通4K" tvg-name="百视通4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/百视通4K.png" group-title="4K超高清",百视通4K
 http://hjb.mba:8888/udp/239.93.42.75:5140
+
