@@ -341,20 +341,8 @@ http://171.217.30.36:13579/udp/239.93.1.110:5140
 http://171.217.30.36:13579/udp/239.93.42.70:5140
 #EXTINF:-1,tvg-id="大爱生活" tvg-name="大爱生活" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/大爱生活.png" group-title="四川本地",大爱生活
 http://171.217.30.36:13579/udp/239.93.42.71:5140
-#EXTINF:-1,tvg-id="爱时尚" tvg-name="爱时尚" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/爱时尚.png" group-title="四川本地",大爱时尚
-http://171.217.30.36:13579/udp/239.93.42.72:5140
-#EXTINF:-1,tvg-id="斗牛财经" tvg-name="斗牛财经" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/斗牛财经.png" group-title="四川本地",斗牛财经
-http://171.217.30.36:13579/udp/239.93.42.62:5140
-#EXTINF:-1,tvg-id="传奇" tvg-name="传奇" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/传奇.png" group-title="四川本地",传奇
-http://171.217.30.36:13579/udp/239.93.0.235:1282
-#EXTINF:-1,tvg-id="收视指南" tvg-name="收视指南" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/收视指南.png" group-title="四川本地",收视指南
-http://171.217.30.36:13579/udp/239.93.0.195:8012
-#EXTINF:-1,tvg-id="资讯新干线" tvg-name="资讯新干线" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/资讯新干线.png" group-title="四川本地",资讯新干线
-http://171.217.30.36:13579/udp/239.93.0.236:1283
 #EXTINF:-1,tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/蓉城先锋.png" group-title="四川本地",蓉城先锋
 http://171.217.30.36:13579/udp/239.93.0.91:2101
-#EXTINF:-1,tvg-id="星空精选" tvg-name="星空精选" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/星空精选.png" group-title="四川本地",星空精选
-http://171.217.30.36:13579/udp/239.93.1.171:5140
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/绚影4K.png" group-title="4K频道",绚影4K
 http://171.217.30.36:13579/udp/239.93.42.33:5140
 #EXTINF:-1,tvg-id="无台标4K" tvg-name="无台标4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/无台标4K.png" group-title="4K频道",无台标4K
@@ -375,6 +363,7 @@ http://171.217.30.36:13579/udp/239.93.1.197:5140
 http://171.217.30.36:13579/udp/239.93.1.198:5140
 #EXTINF:-1,tvg-id="百视通4K" tvg-name="百视通4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/百视通4K.png" group-title="4K频道",百视通4K
 http://hjb.mba:8888/udp/239.93.42.75:5140
+
 
 
 
