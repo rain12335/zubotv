@@ -24,6 +24,16 @@ CCTV16 4K,http://vl15191373.imwork.net:8880/udp/239.93.42.54:5140
 CETV1高清,http://vl15191373.imwork.net:8880/udp/239.93.1.111:5140
 CETV4,http://vl15191373.imwork.net:8880/udp/239.93.10.128:7828
 卫视高清,#genre#
+北京卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.111:5140
+深圳卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.113:5140
+广东卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.114:5140
+北京卫视4K（HDR）,http://vl15191373.imwork.net:8880/udp/239.94.0.112:5140
+四川卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.115:5140
+湖南卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.116:5140
+江苏卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.117:5140
+浙江卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.118:5140
+东方卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.119:5140
+东方卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.120:5140
 四川卫视高清,http://vl15191373.imwork.net:8880/udp/239.93.0.20:1235
 湖南卫视高清,http://vl15191373.imwork.net:8880/udp/239.93.0.88:5140
 江苏卫视高清,http://vl15191373.imwork.net:8880/udp/239.93.0.89:5140
@@ -154,3 +164,4 @@ HD看电影,http://vl15191373.imwork.net:8880/udp/239.93.42.47:5140
 津津悦读4K,http://vl15191373.imwork.net:8880/udp/239.93.1.197:5140
 军情观察4K,http://vl15191373.imwork.net:8880/udp/239.93.1.198:5140
 百视通4K,http://vl15191373.imwork.net:88800/udp/239.93.42.75:5140
+
